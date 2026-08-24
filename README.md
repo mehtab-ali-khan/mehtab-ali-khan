@@ -21,14 +21,3 @@ I'm comfortable working across **databases, APIs, frontend development, testing,
 - Bachelor of Software Engineering student at **Virtual University of Pakistan**
 
 ---
-
-
-## Connect With Me
-
-- LinkedIn: [linkedin.com/in/mehtabali254](https://linkedin.com/in/mehtabali254)
-- GitHub: [github.com/mehtab-ali-khan](https://github.com/mehtab-ali-khan)
-- Email: [this.mehtab.ali@gmail.com](mailto:this.mehtab.ali@gmail.com)
-
----
-
-⭐ Feel free to explore my repositories and projects.
